@@ -1,6 +1,6 @@
 {
   "name": "usable-vue",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "",
   "main": "dist/usable-vue.ssr.js",
   "browser": "dist/usable-vue.esm.js",
