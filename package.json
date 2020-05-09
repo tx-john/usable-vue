@@ -1,6 +1,6 @@
 {
   "name": "usable-vue",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "",
   "scripts": {
     "serve": "vue-cli-service serve src/serve-dev.js",
